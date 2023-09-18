@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ugioni/integration-tests-jest.git"
+    "url": "https://github.com/andretcrs/intregation-tests-jest"
   },
-  "author": "leandro.ugioni",
+  "author": "andre.scheffer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ugioni/integration-tests-jest/issues"
+    "url": "https://github.com/andretcrs/integration-tests-jest/issues"
   },
-  "homepage": "https://github.com/ugioni/integration-tests-jest#readme"
+  "homepage": "https://github.com/andretcrs/intregation-tests-jest/blob/main/README.md"
 }
